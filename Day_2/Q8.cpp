@@ -12,10 +12,13 @@ int main(){
         n1=n1/10;
     }
     if(rev==n){
-        cout<<"Number is pallindrome ";
+        cout<<"Number is palindrome ";
     }
     else{
-        cout<<"Number is not pallindrome ";
+        cout<<"Number is not palindrome ";
     }
     return 0;
 }
+
+
+
