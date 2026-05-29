@@ -7,7 +7,7 @@ int main(){
     n1=n;
     while(n1>0){
         rem=n1%10;
-        sum=sum+rem;
+        sum=sum+rem; 
         n1=n1/10;
     }
     cout<<"The sum of the digits of a number n = "<<n<<" is "<<sum;
