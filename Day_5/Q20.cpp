@@ -29,4 +29,4 @@ int main(){
     }
     cout<<"The largest prime factor of the number "<<n<<" is "<<largestPrimeFactor;
     return 0;
-}
+}  
